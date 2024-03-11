@@ -24,8 +24,6 @@
 - Visual Insights: Analyze financial flow with dynamic charts and transaction chips.
 - Transaction Attachments: Enhance record-keeping by attaching relevant documents or files to transactions.
 
-##
-
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="64">](https://play.google.com/store/apps/details?id=com.alan.financebro)
 
 ### ✉️ [Contact us](mailto:moneymate.dev@gmail.com)
