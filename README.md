@@ -10,6 +10,7 @@
 
 ### 📁 Data Organization:
 - Subcategories: Further refine data organization for enhanced clarity.
+- Reports: Unleash the power of customizable data output.
 
 ### 💰 Savings and Debt Tracking:
 - Seamlessly Incorporate Savings Tracking: Maintain a comprehensive financial overview by seamlessly tracking your savings.
